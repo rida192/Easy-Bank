@@ -1,2 +1,2 @@
 # Easy-Bank
-Check out the final website [here](https://codercoder-easybank.pages.dev/)!
+Check out the website [here](https://rida192.github.io/Easy-Bank/)!
